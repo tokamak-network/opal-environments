@@ -1,0 +1,3 @@
+[submodule "newERC721-template"]
+	path = newERC721-template
+	url = https://github.com/mehdi-defiesta/newERC721-template
