@@ -1,3 +1,6 @@
 [submodule "newERC721-template"]
 	path = newERC721-template
 	url = https://github.com/mehdi-defiesta/newERC721-template
+[submodule "gem-nft-contract-template"]
+	path = gem-nft-contract-template
+	url = https://github.com/mehdi-defiesta/gem-nft-contract-template
